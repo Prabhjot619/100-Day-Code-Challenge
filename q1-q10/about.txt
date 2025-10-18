@@ -1,0 +1,19 @@
+100 Days of Code – Q1 to Q10 (C Language)
+
+I’ve started my 100 Days of Code challenge, solving 2 C programming questions daily.
+These first 10 questions cover the basics — input/output, conditions, loops, functions, arrays, and simple logic building.
+
+Goal:
+Build consistency, improve logic, and strengthen C programming fundamentals.
+
+Each question includes:
+
+Problem statement
+
+Code solution
+
+Example output
+
+Motivation:
+
+“Every line of code is a step closer to mastery.”
