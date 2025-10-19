@@ -1,0 +1,18 @@
+Continuing my 100 Days of Code challenge, I’m solving 2 C programming questions daily.
+
+These questions (Q11–Q20) explore intermediate C concepts — nested loops, string handling, pointers, functions with parameters, and basic problem-solving with arrays.
+
+Goal:
+To move beyond the basics, strengthen logic, and gain confidence in applying C concepts to real problems.
+
+Each question includes:
+
+Problem statement
+
+Code solution
+
+Example output
+
+Motivation:
+
+“Progress happens one problem at a time — keep coding, keep growing.”
