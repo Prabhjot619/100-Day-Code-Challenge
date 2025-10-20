@@ -1,0 +1,17 @@
+The journey continues with Q21–Q30, focusing on advanced use of arrays, structures, and modular programming.
+This phase builds stronger logic and code organization through practical, real-world examples.
+
+Goal:
+To write cleaner, modular code and understand how data structures improve program efficiency.
+
+Each question includes:
+
+Problem statement
+
+Code solution
+
+Example output
+
+Motivation:
+
+“Code is like a muscle — the more you train it, the stronger it gets.”
