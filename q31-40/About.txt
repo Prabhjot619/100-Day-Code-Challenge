@@ -1,0 +1,17 @@
+In Q31–Q40, I dive into file handling, string manipulation, and algorithm-based logic.
+This stage bridges the gap between basic programming and real applications.
+
+Goal:
+To gain practical understanding of data storage, string operations, and algorithmic problem-solving.
+
+Each question includes:
+
+Problem statement
+
+Code solution
+
+Example output
+
+Motivation:
+
+“Don’t just write code — write something that teaches you.”
