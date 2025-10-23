@@ -1,0 +1,17 @@
+This phase focuses on dynamic memory allocation, recursion, and multi-file programs.
+The goal is to understand how complex logic and memory management work in C.
+
+Goal:
+To handle larger problems confidently and manage data dynamically.
+
+Each question includes:
+
+Problem statement
+
+Code solution
+
+Example output
+
+Motivation:
+
+“Every bug fixed is a lesson learned — embrace the errors.”
